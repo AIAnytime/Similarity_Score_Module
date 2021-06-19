@@ -1,4 +1,0 @@
-pandas
-neattext
-numpy
-scikit_learn
