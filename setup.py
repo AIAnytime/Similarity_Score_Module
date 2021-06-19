@@ -11,7 +11,7 @@ setup(
   long_description = long_description,
   long_description_content_type = 'text/markdown',    
   packages = ['Similarity_Score_Module'],   
-  version = '1.2',      
+  version = '1.0',      
   license='MIT',        
   description = 'Check Similarity Score',   
   author = 'Sonu Kumar',                   
